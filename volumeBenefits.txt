@@ -1,0 +1,3 @@
+Volumes are a way to store and manage data outside of a Docker container. When 
+you create a volume, Docker creates a directory on your computer's file system, 
+and then mounts that directory inside the container. New text Added; Another text added
